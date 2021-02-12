@@ -1,0 +1,9 @@
+Financial Analysis
+----------------------------
+The portfolios that outperformed the S&P TSX 60 are: SOROS FUND MANAGEMENT LLC,BERKSHIRE HATHAWAY INC, algorithm 1 and algorithm 2
+The riskier Portifolio is BERKSHIRE HATHAWAY INC
+The algorithmic 1 outperformed both the market (S&P TSX 60) and the whales portfolios
+----------------------------
+Beta of My portfolio is: 1.2979
+----------------------------
+My portfolio of SHOP, OTEX and L stocks outperformed the S&P TSX 60 index, as well as, the Whales portfolios
