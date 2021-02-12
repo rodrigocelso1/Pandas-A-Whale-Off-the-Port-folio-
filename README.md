@@ -1,6 +1,6 @@
 # Pandas-A-Whale-Off-the-Port-folio-
 
-![Portfolio](portfolio.jpg.png)
+![Portfolio](Images/portfolio.jpg.png)
 
 ## Background
 Harold's company has been investing in algorithmic trading strategies. Some of the investment managers love them, some hate them, but they all think their way is best.
